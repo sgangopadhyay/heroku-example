@@ -1,7 +1,6 @@
 {
   "name": "api-01",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,5 +10,17 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "engines": {
+    "node": "14.17.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgangopadhyay/heroku-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgangopadhyay/heroku-example/issues"
+  },
+  "homepage": "https://github.com/sgangopadhyay/heroku-example#readme",
+  "description": ""
 }
